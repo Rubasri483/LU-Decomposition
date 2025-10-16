@@ -48,10 +48,12 @@ print(x)
 ```
 
 ## Output:
-<img width="896" height="598" alt="image" src="https://github.com/user-attachments/assets/3dc39d53-a711-4d29-b7ea-fbcc492bd6a5" />
+#### (i)
+<img width="900" height="367" alt="Screenshot 2025-10-16 184325" src="https://github.com/user-attachments/assets/4a886de1-514b-4ff2-9c8a-7e65cbf4c135" />
 
+#### (ii)
+<img width="883" height="211" alt="image" src="https://github.com/user-attachments/assets/930f3834-993a-4053-9178-e20580142727" />
 
-<img width="872" height="487" alt="image" src="https://github.com/user-attachments/assets/e09599a0-1583-416e-9395-21b62f608e19" />
 
 
 
